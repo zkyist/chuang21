@@ -347,7 +347,7 @@ function removeRankedTrainee(trainee) {
   return false;
 }
 
-const currentURL = "https://luizrbraganca.github.io/Chuang2021-Ranker";
+const currentURL = "https://zkyist.github.io/chuang21/";
 // Serializes the ranking into a string and appends that to the current URL
 function generateShareLink() {
   let shareCode = ranking.map(function (trainee) {
